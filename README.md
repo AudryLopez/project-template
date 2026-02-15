@@ -17,7 +17,7 @@ pnpm dev
 After cloning, open Claude and say:
 
 ```
-setup inicial
+initial setup
 ```
 
 Claude will generate all utilities in `src/lib/`.
